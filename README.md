@@ -24,19 +24,6 @@ Through a combination of data transformation, aggregation, and interactive dashb
 
 - Provide actionable insights for pricing strategies, inventory forecasting, and marketing decisions.
   
-
-### Tools & Technologies
-
-PowerBI – for creating dynamic visual dashboards and reporting.
-
-Snowflake / SQL – for data cleaning, transformation,and aggregation.
-
-Excel – for pivot analysis, data summaries, and early-stage validation.
-
-GitHub – for version control and sharing project scripts and documentation.
-
-Miro – for planning, brainstorming, and workflow design.
-
 ### Key Insights & Analyses
 
 Top Makes and Models by Revenue – Identify which brands and models generate the highest total sales revenue.
@@ -50,3 +37,33 @@ Sales by Region – Assess where most sales occur and which regions prefer speci
 Yearly and Monthly Trends – Discover peak sales months and seasonal effects.
 
 Seller Performance – Determine which sellers or dealerships have the highest revenue share.
+
+### Tools & Technologies
+
+PowerBI – for creating dynamic visual dashboards and reporting.
+
+Snowflake / SQL – for data cleaning, transformation,and aggregation.
+
+Excel – for pivot analysis, data summaries, and early-stage validation.
+
+GitHub – for version control and sharing project scripts and documentation.
+
+Miro – for planning, brainstorming, and workflow design.
+
+### 📁 Content description:
+
+- **Data**  
+  Raw and processed datasets (.csv) along with the case study.
+- **Excel Charts**  
+  Exported graphs and pivot charts for data analysis.
+- **Dashboard**  
+  PDF of dashboard created on PowerBI.
+- **Miro Mapping**  
+  Planned and designed workflows for the project.
+- **Presentation Deck**  
+  Project slides for presentation.
+- **SQL Scripts**  
+  Scripts for cleaning and aggregating viewership data.
+- **README.md**
+  Project overview and documentation
+
